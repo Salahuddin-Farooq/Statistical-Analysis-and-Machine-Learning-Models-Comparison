@@ -8,7 +8,7 @@ For prediction whether income exceeds $50K/yr based on census data. Also known a
 # Statistical Analysis
 Exploratory Data Analysis of Dataset attributes with the help of: 
 1. Boxplots 
-2. Barcharts
+2. Bar Charts
 3. Histograms 
 4. Heatmaps
 
